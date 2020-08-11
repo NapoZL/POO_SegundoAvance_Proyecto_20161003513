@@ -1,0 +1,18 @@
+[
+  {
+    "codigoUsuario": 1,
+    "nombre": "usuario Normal",
+    "correo": "user@gmail.com",
+    "contrasena": "asd.456",
+    "imagen": "img/profile-pics/patricio.jpg",
+    "siguiendo": [12, 15, 11]
+  },
+  {
+    "codigoUsuario": 2,
+    "nombre": "Usuario Premium",
+    "correo": "userp@gmail.com",
+    "contrasena": "bcdcb29ed2aab16d48c11485264df665e906bdd9",
+    "imagen": "img/profile-pics/vegeta.jpg",
+    "siguiendo": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+  }
+]
